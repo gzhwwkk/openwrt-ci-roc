@@ -1,4 +1,4 @@
-name: IPQ60XX-ALL-ROC
+name: IPQ6600
 
 on:
   workflow_dispatch:
