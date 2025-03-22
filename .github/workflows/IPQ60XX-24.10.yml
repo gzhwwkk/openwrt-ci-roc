@@ -1,6 +1,6 @@
 name: IPQ60XX-24.10
 
-on:
+off:
   workflow_dispatch:
   schedule:
     - cron: 0 19 * * *
